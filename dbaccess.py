@@ -1,5 +1,6 @@
 # This script connects to a PostGIS DB
 # Then creates a new gvsig layer with geospatial information retrieved from the DB
+# Copyright (C) 2014 Ana Cruz-Martín (anacruzmartin@gmail.com)
 
 import sys
 import os
