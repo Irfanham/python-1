@@ -1,5 +1,5 @@
 # This script connects to a MySQL DB
-# Copyright (C) 2014 Ana Cruz-Martín (anacruzmartin@gmail.com)
+# Copyright (C) 2017 Ana Cruz-Martín (anacruzmartin@gmail.com)
 
 import sys
 import os
